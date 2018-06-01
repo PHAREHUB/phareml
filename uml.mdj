@@ -32007,7 +32007,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFh5iI7DCCsh18="
 							},
-							"name": "Interaction1",
+							"name": "initialize level data",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
@@ -35903,7 +35903,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFh5iI7DCCsh18="
 							},
-							"name": "Interaction1",
+							"name": "Global interaction",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
@@ -36015,9 +36015,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -88,
-															"width": 106.20263671875,
+															"width": 139.43896484375,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Global interaction)"
 														},
 														{
 															"_type": "LabelView",
@@ -36131,9 +36131,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -84,
-															"width": 106.20263671875,
+															"width": 139.43896484375,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Global interaction)"
 														},
 														{
 															"_type": "LabelView",
@@ -36247,9 +36247,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -88,
-															"width": 106.20263671875,
+															"width": 139.43896484375,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Global interaction)"
 														},
 														{
 															"_type": "LabelView",
@@ -36363,9 +36363,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -50,
-															"width": 106.20263671875,
+															"width": 139.43896484375,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Global interaction)"
 														},
 														{
 															"_type": "LabelView",
@@ -37032,9 +37032,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 106.20263671875,
+															"width": 139.43896484375,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Global interaction)"
 														},
 														{
 															"_type": "LabelView",
@@ -37777,9 +37777,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -108,
-															"width": 106.20263671875,
+															"width": 139.43896484375,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from Global interaction)"
 														},
 														{
 															"_type": "LabelView",
@@ -57974,7 +57974,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFjkta2fQpHc+0="
 							},
-							"name": "Interaction1",
+							"name": "Coarse operation",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
