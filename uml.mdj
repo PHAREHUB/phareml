@@ -60184,6 +60184,7 @@
 										"$ref": "AAAAAAFjkta2fgpI978="
 									},
 									"name": "toFieldBox",
+									"documentation": "here the coarse_box  will be intersected at the begining with the destination box\n",
 									"source": {
 										"$ref": "AAAAAAFjktumCQr/NCc="
 									},
