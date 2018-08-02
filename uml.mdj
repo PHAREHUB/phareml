@@ -32117,9 +32117,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -510,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -32233,9 +32233,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -16,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -32349,9 +32349,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": 910,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -32465,9 +32465,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": 468,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -32579,9 +32579,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -32694,9 +32694,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -264,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -33359,9 +33359,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -206,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -33475,9 +33475,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -248,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -34249,9 +34249,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -84,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -34365,9 +34365,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -132,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
@@ -34481,9 +34481,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -178,
-															"width": 106.20263671875,
+															"width": 143.7744140625,
 															"height": 13,
-															"text": "(from Interaction1)"
+															"text": "(from initialize level data)"
 														},
 														{
 															"_type": "LabelView",
