@@ -69746,9 +69746,9 @@
 													"font": "Arial;13;0",
 													"left": 47.9599609375,
 													"top": 93,
-													"width": 184.5361328125,
+													"width": 174.4052734375,
 													"height": 13,
-													"text": "registerMagneticGhost to Epred"
+													"text": "registerElectricGhost to Epred"
 												},
 												{
 													"_type": "LabelView",
@@ -70874,7 +70874,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFlGUy+ucs6Kq8="
 									},
-									"name": "registerMagneticGhost to Epred",
+									"name": "registerElectricGhost to Epred",
 									"interactionOperator": "seq",
 									"operands": [
 										{
