@@ -69870,7 +69870,7 @@
 															"top": 47,
 															"width": 157.33544921875,
 															"height": 13,
-															"text": "magneticAlg: Algorithm"
+															"text": "electricAlg: Algorithm"
 														},
 														{
 															"_type": "LabelView",
@@ -70740,6 +70740,117 @@
 											"activation": {
 												"$ref": "AAAAAAFlGWaSqc2meZk="
 											}
+										},
+										{
+											"_type": "UMLSeqMessageView",
+											"_id": "AAAAAAFlGZMUY82/Ihk=",
+											"_parent": {
+												"$ref": "AAAAAAFlGUy+ucs7eS0="
+											},
+											"model": {
+												"$ref": "AAAAAAFlGZMUYs2+qQQ="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAFlGZMUY83A3Uc=",
+													"_parent": {
+														"$ref": "AAAAAAFlGZMUY82/Ihk="
+													},
+													"model": {
+														"$ref": "AAAAAAFlGZMUYs2+qQQ="
+													},
+													"font": "Arial;13;0",
+													"left": 368,
+													"top": 263,
+													"width": 217.87060546875,
+													"height": 13,
+													"alpha": -3.3898825964436576,
+													"distance": 73.24616030891995,
+													"hostEdge": {
+														"$ref": "AAAAAAFlGZMUY82/Ihk="
+													},
+													"edgePosition": 1,
+													"text": "4 : algEpred = register(E_new, Epred)"
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAFlGZMUY83BEKQ=",
+													"_parent": {
+														"$ref": "AAAAAAFlGZMUY82/Ihk="
+													},
+													"model": {
+														"$ref": "AAAAAAFlGZMUYs2+qQQ="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": 547,
+													"top": 257,
+													"height": 13,
+													"alpha": 1.5707963267948966,
+													"distance": 25,
+													"hostEdge": {
+														"$ref": "AAAAAAFlGZMUY82/Ihk="
+													},
+													"edgePosition": 1
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAFlGZMUY83Cfl4=",
+													"_parent": {
+														"$ref": "AAAAAAFlGZMUY82/Ihk="
+													},
+													"model": {
+														"$ref": "AAAAAAFlGZMUYs2+qQQ="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": 547,
+													"top": 292,
+													"height": 13,
+													"alpha": -1.5707963267948966,
+													"distance": 10,
+													"hostEdge": {
+														"$ref": "AAAAAAFlGZMUY82/Ihk="
+													},
+													"edgePosition": 1
+												},
+												{
+													"_type": "UMLActivationView",
+													"_id": "AAAAAAFlGZMUY83DHiE=",
+													"_parent": {
+														"$ref": "AAAAAAFlGZMUY82/Ihk="
+													},
+													"model": {
+														"$ref": "AAAAAAFlGZMUYs2+qQQ="
+													},
+													"font": "Arial;13;0",
+													"left": 973,
+													"top": 288,
+													"width": 14,
+													"height": 29
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAFlGVEexcwqDg8="
+											},
+											"tail": {
+												"$ref": "AAAAAAFlGU6bE8vsJfQ="
+											},
+											"points": "122:288;973:288",
+											"nameLabel": {
+												"$ref": "AAAAAAFlGZMUY83A3Uc="
+											},
+											"stereotypeLabel": {
+												"$ref": "AAAAAAFlGZMUY83BEKQ="
+											},
+											"propertyLabel": {
+												"$ref": "AAAAAAFlGZMUY83Cfl4="
+											},
+											"activation": {
+												"$ref": "AAAAAAFlGZMUY83DHiE="
+											}
 										}
 									]
 								}
@@ -70791,6 +70902,22 @@
 									},
 									"arguments": "E, E_new",
 									"assignmentTarget": "algEnew"
+								},
+								{
+									"_type": "UMLMessage",
+									"_id": "AAAAAAFlGZMUYs2+qQQ=",
+									"_parent": {
+										"$ref": "AAAAAAFlGUy+ucs6Kq8="
+									},
+									"name": "register",
+									"source": {
+										"$ref": "AAAAAAFlGU6bEcvlx/M="
+									},
+									"target": {
+										"$ref": "AAAAAAFlGVEexcwj430="
+									},
+									"arguments": "E_new, Epred",
+									"assignmentTarget": "algEpred"
 								}
 							],
 							"participants": [
@@ -70812,7 +70939,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFlGUy+ucs6Kq8="
 									},
-									"name": "magneticAlg",
+									"name": "electricAlg",
 									"represent": {
 										"$ref": "AAAAAAFlGVEexcwivXE="
 									},
